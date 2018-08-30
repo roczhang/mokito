@@ -1,0 +1,4 @@
+rootProject.name = 'com.yg'
+include 'math'
+include 'mockDemo'
+
